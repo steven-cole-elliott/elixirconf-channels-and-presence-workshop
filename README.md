@@ -1,4 +1,4 @@
-# Sketchpad
+# Sketchpad (from ElixirConf 2017, Phoenix Channels & Presence Workshop)
 
 To start your Phoenix app:
 
