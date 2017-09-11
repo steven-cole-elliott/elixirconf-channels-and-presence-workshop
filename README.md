@@ -1,5 +1,7 @@
 # Sketchpad (from ElixirConf 2017, Phoenix Channels & Presence Workshop)
 
+Checkout out [NOTES.md](https://github.com/steven-cole-elliott/elixirconf-channels-and-presence-workshop/blob/master/NOTES.md) for notes taken during this workshop.
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
